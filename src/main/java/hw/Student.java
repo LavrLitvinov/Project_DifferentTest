@@ -3,6 +3,8 @@ package hw;
 import java.util.List;
 
 public class Student {
+
+    // студенты
     private String name;
     private List<Course> courses;
 

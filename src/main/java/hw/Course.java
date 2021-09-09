@@ -3,6 +3,8 @@ package hw;
 import java.util.Objects;
 
 public class Course {
+
+    // курсы
     private String name;
 
     public Course(String name) {
